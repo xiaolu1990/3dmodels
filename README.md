@@ -10,3 +10,7 @@
 |R_SMD_1206.step|SMD 1206|
 |R_SMD_2512.step|SMD 2512|
 
+## MCU
+|**File Name**|**Description**|
+|:--|:--|
+|STM32F103C8T6|ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit Single-Core 72MHz 64KB (64K x 8) FLASH|
