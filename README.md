@@ -4,13 +4,22 @@
 
 ## Resistor
 
-| **File Name**   | **Description** |
-| :-------------- | :-------------- |
-| R_SMD_0402.step | SMD 0402        |
-| R_SMD_0603.step | SMD 0603        |
-| R_SMD_0805.step | SMD 0805        |
-| R_SMD_1206.step | SMD 1206        |
-| R_SMD_2512.step | SMD 2512        |
+|| **File Name**   | **Description**   |
+| :-------------- | :---------------- |
+| R_SMD_0402.step | SMD Resistor 0402 |
+| R_SMD_0603.step | SMD Resistor 0603 |
+| R_SMD_0805.step | SMD Resistor 0805 |
+| R_SMD_1206.step | SMD Resistor 1206 |
+| R_SMD_2512.step | SMD Resistor 2512 |
+
+## Capacitor
+
+| **File Name**   | **Description**    |
+| :-------------- | :----------------- |
+| C_SMD_0402.step | SMD Capacitor 0402 |
+| C_SMD_0603.step | SMD Capacitor 0603 |
+| C_SMD_0805.step | SMD Capacitor 0805 |
+
 
 ## MCU
 
