@@ -4,7 +4,7 @@
 
 ## Resistor
 
-|| **File Name**   | **Description**   |
+| **File Name**   | **Description**   |
 | :-------------- | :---------------- |
 | R_SMD_0402.step | SMD Resistor 0402 |
 | R_SMD_0603.step | SMD Resistor 0603 |
@@ -40,3 +40,10 @@
 | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | GSB343K331HR  | USB - micro B USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 10 Position Surface Mount, Right Angle; Through Hole |
 | USB4105-GF-A  | USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole                           |
+
+## Crystals, Oscillators, Resonators
+
+| **File Name**              | **Description**                                                                    |
+| :------------------------- | :--------------------------------------------------------------------------------- |
+| CRYSTAL 8.0000MHZ 12PF SMD | 8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead                                  |
+| ECS-327MVATX-2-CN-TR3      | 32.768 kHz XO (Standard) CMOS Oscillator 1.6V ~ 3.6V Enable/Disable 4-SMD, No Lead |
