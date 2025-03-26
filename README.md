@@ -54,3 +54,10 @@
 | :-------------------- | :--------------------------------------------------------------------------------- |
 | ECS-80-12-33-JGN-TR   | 8 MHz ±20ppm Crystal 12pF 400 Ohms 4-SMD, No Lead                                  |
 | ECS-327MVATX-2-CN-TR3 | 32.768 kHz XO (Standard) CMOS Oscillator 1.6V ~ 3.6V Enable/Disable 4-SMD, No Lead |
+| ECS-.327-12.5-34B-TR  | 32.768 kHz ±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead                           |
+
+## Switches
+
+| **File Name**        | **Description**                                |
+| :------------------- | :--------------------------------------------- |
+| PTS810SJM250SMTR LFS | SMD Tactile Switch SPST-NO, 4 Pin, 4.2 x 3.2mm |
