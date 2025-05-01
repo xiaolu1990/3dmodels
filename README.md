@@ -62,3 +62,9 @@
 | **File Name**        | **Description**                                |
 | :------------------- | :--------------------------------------------- |
 | PTS810SJM250SMTR LFS | SMD Tactile Switch SPST-NO, 4 Pin, 4.2 x 3.2mm |
+
+## ICs
+
+| **File Name**     | **Description**           |
+| :---------------- | :------------------------ |
+| PI5USB30213AXEAEX | USB3.0 bi-directional MUX |
