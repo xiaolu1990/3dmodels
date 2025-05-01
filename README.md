@@ -44,10 +44,11 @@
 
 ## Connector
 
-| **File Name** | **Description**                                                                                                                             |
-| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| GSB343K331HR  | USB - micro B USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 10 Position Surface Mount, Right Angle; Through Hole |
-| USB4105-GF-A  | USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole                           |
+| **File Name** | **Description**                                                                                                                                    |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GSB343K331HR  | USB - micro B USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 10 Position Surface Mount, Right Angle; Through Hole        |
+| USB4105-GF-A  | USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole                                  |
+| USB4056-03-A  | USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle; Through Hole |
 
 ## Crystals, Oscillators, Resonators
 
